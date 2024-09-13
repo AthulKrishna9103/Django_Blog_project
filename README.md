@@ -30,7 +30,7 @@ A working database (e.g. SQLite, PostgreSQL)
 A web server (e.g. Apache, Nginx)
 Installation:
 
-Clone the repository: git clone https://github.com/athulkrishna9103/Django_Blog_project.git
+Clone the repository: git clone https://github.com/AthulKrishna9103/Django_Blog_project.git
 Install the dependencies: pip install -r requirements.txt
 Run the migrations: python manage.py migrate
 Create a superuser: python manage.py createsuperuser
